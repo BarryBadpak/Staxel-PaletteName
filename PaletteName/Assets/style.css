@@ -1,0 +1,23 @@
+﻿#CharacterCreator_Info2 {
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    left: 465px;
+    z-index: 0;
+}
+
+#CharacterCreator_Info2.charactercreator-info2-name {
+    background-image: url(../image/StaxelUINameBox.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#CharacterCreator_Info2Name {
+    position: absolute;
+    left: 17px;
+    width: 116px;
+    top: 17px;
+    text-align: left;
+    color: black;
+    font-size: 18px;
+}

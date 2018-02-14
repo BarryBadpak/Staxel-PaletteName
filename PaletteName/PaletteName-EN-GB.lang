@@ -1,0 +1,39 @@
+language.code=en-GB
+language=English
+
+// Skin color translations
+staxel.palette.skin.blueskin=Blue skin
+staxel.palette.skin.dark=Dark skin
+staxel.palette.skin.darker=Darker skin
+staxel.palette.skin.fair=Fair skin
+staxel.palette.skin.greenskin=Green skin
+staxel.palette.skin.oriental=Oriental skin
+staxel.palette.skin.pastelblueskin=Pastel blue skin
+staxel.palette.skin.pastelgreenskin=Pastel green skin
+staxel.palette.skin.pastelpinkskin=Pastel pink skin
+staxel.palette.skin.pastelpurpleskin=Pastel purple skin
+staxel.palette.skin.pinkskin=Pink skin
+staxel.palette.skin.purpleskin=Purple skin
+staxel.palette.skin.slightTan=Slight tan skin
+staxel.palette.skin.tanned=Tanned skin
+staxel.palette.skin.tropical=Tropical skin
+
+// Denim color translations
+staxel.palette.darkgrey=Dark gray denim
+staxel.palette.denim=Denim
+staxel.palette.fadedblue=Faded denim
+staxel.palette.fadedlight=Faded light denim
+
+// Dye color translations
+staxel.palette.black=Black
+staxel.palette.blonde=Blonde
+staxel.palette.blue=Blue
+staxel.palette.brown=Brown
+staxel.palette.darkbrown=Dark brown
+staxel.palette.green=Green
+staxel.palette.grey=Grey
+staxel.palette.orange=Orange
+staxel.palette.pink=Pink
+staxel.palette.purple=Purple
+staxel.palette.red=Red
+staxel.palette.yellow=Yellow

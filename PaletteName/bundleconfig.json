@@ -1,0 +1,20 @@
+﻿[
+  {
+    "outputFileName": "bin/Release/Assets/index.min.html",
+    "inputFiles": [
+      "Assets/index.html"
+    ]
+  },
+  {
+    "outputFileName": "bin/Release/Assets/style.min.css",
+    "inputFiles": [
+      "Assets/style.css"
+    ]
+  },
+  {
+    "outputFileName": "bin/Release/Assets/main.min.js",
+    "inputFiles": [
+      "Assets/main.js"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+language.code=nl-NL
+language=Nederlands
+
+// Skin color translations
+staxel.palette.skin.blueskin=Blauwe huid
+staxel.palette.skin.dark=Donkere huid
+staxel.palette.skin.darker=Donkerdere huid
+staxel.palette.skin.fair=Lichte huid
+staxel.palette.skin.greenskin=Groene huid
+staxel.palette.skin.oriental=Orientaaalse huid
+staxel.palette.skin.pastelblueskin=Pastel blauwe huid
+staxel.palette.skin.pastelgreenskin=Pastel groene huid
+staxel.palette.skin.pastelpinkskin=Pastel roze huid
+staxel.palette.skin.pastelpurpleskin=Pastel paarse huid
+staxel.palette.skin.pinkskin=Roze huid
+staxel.palette.skin.purpleskin=Paarse huid
+staxel.palette.skin.slightTan=Licht gebruinde huid
+staxel.palette.skin.tanned=Gebruinde huid
+staxel.palette.skin.tropical=Tropische huid
+
+// Denim color translations
+staxel.palette.darkgrey=Donker grijs denim
+staxel.palette.denim=Denim
+staxel.palette.fadedblue=Vervaagde denim
+staxel.palette.fadedlight=Licht vervaagde denim
+
+// Dye color translations
+staxel.palette.black=Zwart
+staxel.palette.blonde=Blond
+staxel.palette.blue=Blauw
+staxel.palette.brown=Bruin
+staxel.palette.darkbrown=Donker bruin
+staxel.palette.green=Groen
+staxel.palette.grey=Grijs
+staxel.palette.orange=Oranje
+staxel.palette.pink=Roze
+staxel.palette.purple=Paars
+staxel.palette.red=Rood
+staxel.palette.yellow=Geel
