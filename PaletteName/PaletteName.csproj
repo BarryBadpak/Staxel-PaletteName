@@ -70,7 +70,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModHook.cs" />
+    <Compile Include="PaletteNameManager.cs" />
     <Compile Include="Patches\CharacterCreationController\SendDataPatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
