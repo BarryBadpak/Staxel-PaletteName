@@ -16,9 +16,9 @@ namespace PaletteName
         /// </summary>
         public PaletteNameManager()
         {
-            this.HTMLAsset = this.AssetLoader.ReadFileContent("Assets/index.min.html");
-            this.JSAsset = this.AssetLoader.ReadFileContent("Assets/main.min.js");
-            this.CSSAsset = this.AssetLoader.ReadFileContent("Assets/style.min.css");
+            this.HTMLAsset = this.FileHelper.ReadFileContent("Assets/index.min.html");
+            this.JSAsset = this.FileHelper.ReadFileContent("Assets/main.min.js");
+            this.CSSAsset = this.FileHelper.ReadFileContent("Assets/style.min.css");
         }
 
 		/// <summary>
